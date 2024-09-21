@@ -1,2 +1,2 @@
 # Neuro-inspired_RNN
-RNN structure and back propagation inspired by orbitofrontal cortex (OFC) computation
+RNN structure and backpropagation inspired by orbitofrontal cortex (OFC) computation (reward simulation before decision making)
