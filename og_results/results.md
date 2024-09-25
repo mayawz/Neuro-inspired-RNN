@@ -29,7 +29,6 @@ time_portal(to=2015)
 ![Slide27](https://github.com/user-attachments/assets/f0a17306-0638-4cd1-ad96-f2dc3762c4a9)
 ![Slide28](https://github.com/user-attachments/assets/b378c4d6-2212-493e-91bd-12df324236b7)
 ![Slide29](https://github.com/user-attachments/assets/6e4e9449-d5f4-42ce-b2df-ff38d2fc947b)
-![Slide30](https://github.com/user-attachments/assets/522f92a8-b23b-4ec6-bf60-ba54502e4266)
 
 
 
